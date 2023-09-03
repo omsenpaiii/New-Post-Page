@@ -1,0 +1,9 @@
+/* CSS in your stylesheet to style the h4 element with the "custom-heading" class */
+.custom-heading {
+  background-color: #d1d1d1;
+  /* Gray background color */
+  padding: 5px;
+  /* Add more padding vertically and keep 5px horizontal padding */
+  margin-bottom: 10px;
+  /* Add margin to separate it from other content */
+}
